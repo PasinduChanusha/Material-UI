@@ -8,7 +8,8 @@ function App() {
         <
         header className = "App-header" >
         <
-        Button variant = "contained"
+        Button href = "#"
+        variant = "contained"
         color = "primary" >
         Hello World <
         /Button> <
